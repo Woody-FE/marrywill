@@ -20,3 +20,5 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/geureoham/)](https://www.instagram.com/geureoham/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kti91@likelion.org)](mailto:kti91@likelion.org)
 </div>
+
+[notion 포트폴리오](https://www.notion.so/f69930768c154437bf4e73a4fcc24e0d)
