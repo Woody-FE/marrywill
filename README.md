@@ -6,7 +6,7 @@
   
 ### Junior Frontend Developer
 - LikeLion 5th(2017.03~2017.08), Samsung SW Academy For Youth 3th (2020.01 ~ ING)
-- [notion 포트폴리오](https://www.notion.so/f69930768c154437bf4e73a4fcc24e0d)
+- [notion 포트폴리오](https://developing-expert-379.notion.site/f69930768c154437bf4e73a4fcc24e0d)
 
 ### Interest
 - Javascript
